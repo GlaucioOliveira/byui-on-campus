@@ -30,7 +30,7 @@ Guides and hints for Brazilians or anyone from other country who desires to stud
   * [10.1 OPT and STEAM Extension](#101-opt-and-steam-extension)
   * [10.2 H1B Visa Lottery](#102-h1b-visa-lottery)
   * [10.3 Master's Degree](#103-master-s-degree)
-  * [10.3 EB2 NIW](#103-eb2-niw)
+  * [10.4 EB2 NIW](#104-eb2-niw)
 - [11. Successful Cases](#11-successful-cases)
 - [12. Appendix / Resources](#12-appendix---resources)
 
@@ -240,7 +240,7 @@ TODO
 ### 10.3 Master's Degree
 TODO
 <br><br>
-### 10.3 EB2 NIW
+### 10.4 EB2 NIW
 
 TODO
 <br><br>
