@@ -243,6 +243,6 @@ TODO
 ## 11. Appendix / Resources
 2023-11-05 - [Info Session Estudar na BYU Idaho - Youtube](https://www.youtube.com/watch?v=QmIWoWiy3jM)
 
-2023-11-05 - [Info Session Estudar na BYU Idaho - PDF]()
+2023-11-05 - [Info Session Estudar na BYU Idaho - PDF](https://github.com/GlaucioOliveira/byui-on-campus/blob/main/assets/Info%20Session_%20Estudar%20na%20BYU-Idaho.pdf)
 
 <br><br>
