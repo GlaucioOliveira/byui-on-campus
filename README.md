@@ -2,7 +2,7 @@
 Guides and hints for Brazilians or anyone from other country who desires to study at BYU Idaho on Campus
 
 
-[TOC]
+[toc]
 
 ## 1. Chose a Major
 
