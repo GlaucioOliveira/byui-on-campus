@@ -245,4 +245,5 @@ TODO
 
 2023-11-05 - [Info Session Estudar na BYU Idaho - PDF](https://github.com/GlaucioOliveira/byui-on-campus/blob/main/assets/Info%20Session_%20Estudar%20na%20BYU-Idaho.pdf)
 
+2021-06-19 - [Applying to BYU-i.doc](https://github.com/GlaucioOliveira/byui-on-campus/blob/main/assets/Applying%20to%20BYU-I.doc)
 <br><br>
