@@ -22,7 +22,7 @@ Guides and hints for Brazilians or anyone from other country who desires to stud
   * [7. Flight to Rexburg, Idaho](#7-flight-to-rexburg--idaho)
   * [8. Arriving Idaho!](#8-arriving-idaho-)
     + [8.1 Health care plan](#81-health-care-plan)
-    + [8.2  There is free food!](#82--there-is-free-food-)
+    + [8.2  There is free food!](#82--there-is-free-food)
     + [8.3 Earning money](#83-earning-money)
     + [8.4 Work](#84-work)
     + [8.5 Cheap Housing](#85-cheap-housing)
@@ -226,8 +226,23 @@ TODO
 ## 10. After graduation
 TODO
 <br><br>
-
-
 ### 10.1 OPT and STEAM Extension
 
 If you major is a STEAM major you have the opportunity to stay on the USA working for 3 years after you graduate under the OPT (work visa permit). The OPT visa costs about 400 dollars. Even if your major is not a steam major you can still apply to get an OPT visa after your graduate so you can stay in the USA working for 1/2 years depending on your major.
+<br><br>
+### 10.2 H1B Visa Lottery 
+TODO
+<br><br>
+### 10.3 Master's Degree
+TODO
+<br><br>
+### 10.3 EB2 NIW
+
+TODO
+<br><br>
+## 11. Appendix / Resources
+2023-11-05 - [Info Session Estudar na BYU Idaho - Youtube](https://www.youtube.com/watch?v=QmIWoWiy3jM)
+
+2023-11-05 - [Info Session Estudar na BYU Idaho - PDF]()
+
+<br><br>
